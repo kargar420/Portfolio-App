@@ -11,7 +11,7 @@ export const hero = {
   linkedin: "https://www.linkedin.com/in/kartik-agrawal-30777128a",
   github: "https://github.com/2017kartik",
   resume:
-    "https://drive.google.com/file/d/1qISHYsW1cBX87pfbwUeCKNO_G_rhgtbl/view?usp=sharing",
+    "https://drive.google.com/file/d/1CdBHQaDO7k0PIHQO8dfFMxMnlIJURgkg/view?usp=sharing",
 } as const;
 
 export interface BulletPoint {
